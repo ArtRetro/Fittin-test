@@ -1,6 +1,7 @@
 # Экран мобильного приложения
 Это вёрстка экрана банковского приложения с Figma, под мобильное приложение на Flutter
-- Изначальный дизайн - [Figma](https://www.figma.com/design/p1cBgQcj8MbbSHg2yZhL0Z/Bank-App-UI---Finance-App-UI-Design-with-Components--Community-?node-id=11-44&p=f&t=33xgmmUy95Lkvp4J-0)
+- Изначальный дизайн - [Figma](https://www.figma.com/design/p1cBgQcj8MbbSHg2yZhL0Z/Bank-App-UI---Finance-App-UI-Design-with-Components--Community-?node-id=11-44&p=f&t=33xgmmUy95Lkvp4J-0);
+- Приложение - [APK файл](https://github.com/ArtRetro/Fittin-test/releases/tag/version_1.0)
 # Установка
 1. Клонируйте репозиторий:
 
