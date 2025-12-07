@@ -1,16 +1,27 @@
-# fittin_test
+# Fittin_test
+Это вёрстка экрана банковского приложения с Figma, под мобильное приложение на Flutter
+- Изначальный дизайн - [Figma](https://www.figma.com/design/p1cBgQcj8MbbSHg2yZhL0Z/Bank-App-UI---Finance-App-UI-Design-with-Components--Community-?node-id=11-44&p=f&t=33xgmmUy95Lkvp4J-0)
+# Установка
+1. Клонируйте репозиторий:
 
-A new Flutter project.
+    ```sh
+    git clone https://github.com/bosonhiiggs/MT-Client.git](https://github.com/ArtRetro/Fittin-test.git
+    ```
 
-## Getting Started
+2. Перейдите в директорию проекта:
 
-This project is a starting point for a Flutter application.
+    ```sh
+    cd Fittin_test
+    ```
 
-A few resources to get you started if this is your first Flutter project:
+3. Установите зависимости:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    ```sh
+    flutter pub get
+    ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Запустите приложение:
+
+    ```sh
+    flutter run
+    ```
